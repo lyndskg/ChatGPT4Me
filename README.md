@@ -13,9 +13,7 @@ Key Features:
 5. API Integration: ChatGPT4Me will incorporate publicly accessible APIs to enhance its functionality and enable interactions with external systems and services.
 
 
-Best Coding Languages:
-
-Python is the best coding language for this project. Python offers a wide range of libraries and frameworks for natural language processing, machine learning, and API integrations, making it suitable for developing and fine-tuning the language model.
+Best Coding Languages: Python is the best coding language for this project. Python offers a wide range of libraries and frameworks for natural language processing, machine learning, and API integrations, making it suitable for developing and fine-tuning the language model.
 
 
 Basic Workflow:
